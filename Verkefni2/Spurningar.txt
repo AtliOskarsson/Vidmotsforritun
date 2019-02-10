@@ -1,0 +1,8 @@
+1. 
+  a. GPU: 
+  b. Pixels:
+  c. Frame buffer, raster-scan and refresh rate:
+  d. WebGL og OpenGL:
+
+2.
+  
